@@ -1,4 +1,4 @@
-### Other features
+### Dat 
 
 This page lists all the other available features that you may find useful.
 
